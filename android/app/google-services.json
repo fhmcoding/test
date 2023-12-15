@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "683059328985",
+    "project_id": "canari-dc64a",
+    "storage_bucket": "canari-dc64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683059328985:android:aeb928b664ca41d249cbc8",
+        "android_client_info": {
+          "package_name": "com.backoffice.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683059328985-nd7c1n23mfb652jcfdc7a2k89tosu0hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMMfoRmO0rINFNQn3ry6mDRx8901Fmibc"
+        },
+        {
+          "current_key": "AIzaSyCFhUNZ60a0nt3hG-94EtZG3VRy_rZWB3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683059328985-nd7c1n23mfb652jcfdc7a2k89tosu0hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683059328985:android:68e31bd92a56a82449cbc8",
+        "android_client_info": {
+          "package_name": "com.canari.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683059328985-iq6jbej030cmet76t8etdjpmp14rs5ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.canari.app",
+            "certificate_hash": "17f85241c3a0c10c2a4128b78ff09bb7d106e2ec"
+          }
+        },
+        {
+          "client_id": "683059328985-lt67r57bcgk296t6miqcn75beu5dsjbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.canari.app",
+            "certificate_hash": "142e5b6c4ef093e03c5188aed5baace4ce45c438"
+          }
+        },
+        {
+          "client_id": "683059328985-nd7c1n23mfb652jcfdc7a2k89tosu0hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMMfoRmO0rINFNQn3ry6mDRx8901Fmibc"
+        },
+        {
+          "current_key": "AIzaSyCFhUNZ60a0nt3hG-94EtZG3VRy_rZWB3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683059328985-nd7c1n23mfb652jcfdc7a2k89tosu0hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683059328985:android:7c300ce0eab4cf6849cbc8",
+        "android_client_info": {
+          "package_name": "com.rider.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683059328985-nd7c1n23mfb652jcfdc7a2k89tosu0hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMMfoRmO0rINFNQn3ry6mDRx8901Fmibc"
+        },
+        {
+          "current_key": "AIzaSyCFhUNZ60a0nt3hG-94EtZG3VRy_rZWB3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683059328985-nd7c1n23mfb652jcfdc7a2k89tosu0hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
